@@ -1,16 +1,35 @@
-## Hi there 👋
+# Alan Fresco
 
-<!--
-**a2fr/a2fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with an engineering degree from ENSEEIHT and a Master's degree in Computer Science from UQAC, building backend and full-stack applications.
 
-Here are some ideas to get you started:
+[Portfolio](https://a2fr.github.io/my-portfolio/) · [Projects](https://github.com/a2fr?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+I am currently co-building **Piloteat**, a SaaS product for restaurants. I work across the product lifecycle: UX/UI, frontend architecture, data modelling, authentication, business features, responsive design, and deployment.
+
+**Stack:** Angular 22, TypeScript, Supabase, PostgreSQL, Auth, Realtime, and Vercel.
+
+## Selected projects
+
+- [**3D Ballistics Simulator**](https://github.com/a2fr/myRelentlessSketch) — C++ and openFrameworks simulator featuring custom physics, collision detection, and spatial partitioning.
+- [**Cat and Dog Image Classification**](https://github.com/a2fr/TP3Vision) — PyTorch project comparing AlexNet transfer learning with a custom CNN.
+- [**Insurance File Manager**](https://github.com/a2fr/gestion_assurance) — Electron desktop application for managing clients, contracts, documents, and payments.
+- [**Personal Portfolio**](https://github.com/a2fr/my-portfolio) — an overview of my experience and selected software projects.
+
+## Core stack
+
+- **Languages:** Python, Java, TypeScript, JavaScript, C++
+- **Web:** Angular, React, Next.js, REST APIs
+- **Data:** PostgreSQL, Supabase, relational data modelling
+- **Engineering:** Docker, Linux, Git/GitHub, software testing, automation
+
+## Professional experience
+
+- At **N7 Consulting**, I developed Python automation for an EDF alarm system using MQTT and Modbus in a real client-project environment.
+- At **Alten Labs**, I contributed to an interactive digital twin built with Godot and Meta Quest, including real-time interaction and immersive 3D navigation.
+
+## Education
+
+- Engineering degree — **ENSEEIHT / Toulouse INP**
+- Master's degree in Computer Science (Video Games) — **UQAC**
