@@ -15,9 +15,9 @@ I am currently co-building **Piloteat**, a SaaS product for restaurants. I work 
 - [**Bluetooth Smart Home Controller**](https://github.com/Omaru-S/Projet) — collaborative Android application using Bluetooth RFCOMM to relay smart-home data and commands between two phones and an HTTP API.
 - [**ChillBox**](https://github.com/pierre-teodoresco/ChillBox) — collaborative Android application developed in Kotlin.
 - [**IP Router Simulator**](https://github.com/jeremy-angulo/Projet-Simulateur-Routeur) — Ada implementation of longest-prefix routing with list- and tree-based caches and FIFO, LRU, and LFU replacement policies.
-- [**3D Ballistics Simulator**](https://github.com/a2fr/myRelentlessSketch) — C++ and openFrameworks simulator featuring custom physics, collision detection, and spatial partitioning.
-- [**Cat and Dog Image Classification**](https://github.com/a2fr/TP3Vision) — PyTorch project comparing AlexNet transfer learning with a custom CNN.
-- [**Insurance File Manager**](https://github.com/a2fr/gestion_assurance) — Electron desktop application for managing clients, contracts, documents, and payments.
+- [**3D Ballistics Simulator**](https://github.com/a2fr/3d-ballistics-simulator) — C++ and openFrameworks simulator featuring custom physics, collision detection, and spatial partitioning.
+- [**Cat and Dog Image Classification**](https://github.com/a2fr/cat-dog-classifier-pytorch) — PyTorch project comparing AlexNet transfer learning with a custom CNN.
+- [**Insurance File Manager**](https://github.com/a2fr/insurance-file-manager) — Electron desktop application for managing clients, contracts, documents, and payments.
 
 ## Core stack
 
